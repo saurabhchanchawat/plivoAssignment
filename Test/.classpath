@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Local Workspace/Test/lib/accessors-smart-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Local Workspace/Test/lib/asm-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Local Workspace/Test/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Local Workspace/Test/lib/json-path-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Local Workspace/Test/lib/json-smart-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Local Workspace/Test/lib/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Local Workspace/Test/lib/slf4j-api-1.7.16.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
